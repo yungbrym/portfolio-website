@@ -29,7 +29,7 @@
 
 
 
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbzweRPHk4SF7pGsZ0mDQhUDa3UwjVR4WZ_0GRljIrHJhyDehd9ps3qQBEuD2uSAUOm-OQ/exec' // add your own app script link here
+    const scriptURL = 'https://script.google.com/macros/library/d/104MbCmA2t35aTu4DIGll_ijFDJCv2X7V7oaU8wjrX0WecpZSGKyhO2l8/1' // add your own app script link here
     const form = document.forms['submit-to-google-sheet']
     const msg = document.getElementById("msg")
   
