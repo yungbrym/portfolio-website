@@ -221,6 +221,9 @@ nav ul li a:hover::after{
     font-weight: 500;
     margin-bottom: 20px;
 }
+.layer p{
+    color:#fff;
+}
 .layer a{
     margin-top: 20px;
     color: #ff004f;
